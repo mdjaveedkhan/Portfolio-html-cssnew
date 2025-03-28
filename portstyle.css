@@ -1,6 +1,5 @@
 body {
   text-align: center;
-  height: 800px;
   margin: 0px;
   font-family: Arial, sans-serif;
 
@@ -10,7 +9,6 @@ body {
 }
 #pimg {
   height: 150px;
-  width: 150px;
   border-radius: 50%;
   border: 3px solid gray;
 }
@@ -53,12 +51,10 @@ body {
 
   .yt.img{
     height: 420px;
-    width: 590px;
     border: 3px solid gray;
   }
   .oma{
     height: 420px;
-    width: 590px;
   }
   .omt{
     text-align: left;
